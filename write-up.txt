@@ -1,0 +1,27 @@
+Nama: Selina Maurizka
+NPM: 1606874564
+APAP - A
+
+1. Apakah hasilnya? Jika error, tuliskan penjelasan Anda.
+
+Tidak error, yang keluar adalah “Data Berhasil Ditambahkan”
+
+2. Apakah hasilnya? Jika error, tuliskan penjelasan Anda.
+
+Error, karena tidak terdapat parameter amount.
+
+3. Apakah data Car tersebut muncul? Jika tidak, mengapa?
+
+Tidak error, muncul data yang telah dimasukkan sebelumnya.
+
+4. Apakah data Car tersebut muncul? Jika tidak, mengapa?
+
+Error, karena data yang ditambahkan sudah terhapus ketika di run ulang sehingga ketika diakses menggunakan view data tidak ada.
+
+5. Apakah data Car tersebut muncul?
+
+Data muncul sesuai dengan parameter yang ditambahkan.
+
+6. Apakah semua data Car muncul?
+
+Semua data muncul sesuai dengan parameter yang dimasukkan.
